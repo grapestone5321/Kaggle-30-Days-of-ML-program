@@ -397,7 +397,7 @@ Alexis
 For the next two weeks, you’ll be working on a beginner-friendly competition open only to people who have signed up for 30 Days of ML. The top ten teams will receive swag as prizes.
 
 ### 📋 Today’s Assignment
-Get started with the competition.
+Get started with the competition. https://www.kaggle.com/c/30-days-of-ml
 
 This is your personal invitation link to join the competition. Please do not share it with anyone else, and do not post it in the Discord community.
 
