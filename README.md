@@ -4,9 +4,10 @@ Kaggle-30-Days-of-ML-program
 -------
 
 ## Kaggle's 30 Days of ML: Abhishek Thakur
-
-### 25 videos Last updated on Aug 31, 2021
 https://www.youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N
+
+### 25 videos 
+Last updated on Aug 31, 2021
 
 
 
