@@ -3,6 +3,16 @@ Kaggle-30-Days-of-ML-program
 
 -------
 
+## Kaggle's 30 Days of ML: Abhishek Thakur
+
+### 25 videos Last updated on Aug 31, 2021
+https://www.youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N
+
+
+
+
+-------
+
 ## Register for the beginner-friendly 30 Days of ML starting Monday, August 2
 
 This weekend is your last chance to join 30 Days of ML, our beginner-friendly learning challenge! The event starts on Monday, August 2.
